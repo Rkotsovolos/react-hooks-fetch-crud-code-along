@@ -35,6 +35,24 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Apples",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Brownie",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "milk",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 9
     }
   ]
 }
